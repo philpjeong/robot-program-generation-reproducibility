@@ -1,0 +1,138 @@
+{
+  "status": "PASSED",
+  "saved_outcomes": 7600,
+  "condition_counts": {
+    "GPT54_main:c1_direct": [
+      400,
+      374
+    ],
+    "GPT54_main:c2_spec": [
+      400,
+      380
+    ],
+    "GPT54_main:c3_direct_review": [
+      400,
+      373
+    ],
+    "GPT54_main:c4_spec_review": [
+      400,
+      381
+    ],
+    "GPT41_main:c1_direct": [
+      400,
+      331
+    ],
+    "GPT41_main:c2_spec": [
+      400,
+      358
+    ],
+    "GPT41_main:c3_direct_review": [
+      400,
+      339
+    ],
+    "GPT41_main:c4_spec_review": [
+      400,
+      359
+    ],
+    "Gemini_main:c1_direct": [
+      400,
+      378
+    ],
+    "Gemini_main:c2_spec": [
+      400,
+      380
+    ],
+    "Gemini_main:c3_direct_review": [
+      400,
+      377
+    ],
+    "Gemini_main:c4_spec_review": [
+      400,
+      380
+    ],
+    "GPT54_C0:c0_direct_no_contract": [
+      400,
+      344
+    ],
+    "GPT54_additional_tasks:c1_direct": [
+      200,
+      175
+    ],
+    "GPT54_additional_tasks:c2_spec": [
+      200,
+      180
+    ],
+    "GPT54_additional_tasks:c3_direct_review": [
+      200,
+      173
+    ],
+    "GPT54_additional_tasks:c4_spec_review": [
+      200,
+      172
+    ],
+    "Qwen_recovery:c1_direct": [
+      400,
+      211
+    ],
+    "Qwen_recovery:c2_spec": [
+      400,
+      218
+    ],
+    "Qwen_recovery:c3_direct_review": [
+      400,
+      260
+    ],
+    "Qwen_recovery:c4_spec_review": [
+      400,
+      240
+    ]
+  },
+  "paired_paths": 3200,
+  "resource_paths": 6400,
+  "gate_paths": 3200,
+  "contract_signflip_and_mcnemar_reproduced": true,
+  "initial_code_fallback_reproduced": true,
+  "main_contrasts_reproduced": 16,
+  "gate_contrasts_reproduced": 16,
+  "sequential_curve": [
+    {
+      "cap": 1,
+      "success_pct": 52.75000000000001,
+      "mean_tokens": 3847.9925000000003,
+      "mean_generations": 1.0,
+      "oracle_pass_at_k_pct": 52.75
+    },
+    {
+      "cap": 2,
+      "success_pct": 55.81250000000001,
+      "mean_tokens": 4610.11125,
+      "mean_generations": 1.19,
+      "oracle_pass_at_k_pct": 72.00000000000001
+    },
+    {
+      "cap": 3,
+      "success_pct": 56.47916666666667,
+      "mean_tokens": 4769.14375,
+      "mean_generations": 1.22875,
+      "oracle_pass_at_k_pct": 80.5
+    },
+    {
+      "cap": 4,
+      "success_pct": 56.458333333333336,
+      "mean_tokens": 4794.35125,
+      "mean_generations": 1.2349999999999999,
+      "oracle_pass_at_k_pct": 85.24999999999999
+    },
+    {
+      "cap": 5,
+      "success_pct": 56.458333333333336,
+      "mean_tokens": 4794.35125,
+      "mean_generations": 1.2349999999999999,
+      "oracle_pass_at_k_pct": 88.75
+    }
+  ],
+  "saved_final_records_hash_checked": 7600,
+  "correlations_reproduced": 64,
+  "new_model_calls": 0,
+  "new_simulator_runs": 0
+}

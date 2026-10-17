@@ -1,0 +1,23 @@
+Third-party material and licensing
+==================================
+
+This repository accompanies the manuscript "Task Specification and
+Review-Revision in LLM-Based Robot Program Generation: A Cross-Model
+Evaluation". It preserves the implementation and saved evidence used for
+the reported analyses.
+
+The CodeBotler/RoboEval-derived implementation, public API context,
+benchmark definitions, and related materials retain their existing
+copyright notices and license terms. The supplied upstream license is
+reproduced verbatim in LICENSE.codebotler. It includes
+a restriction against using the repository contents as machine-learning
+training data; consult the complete license text.
+
+No new blanket license is assigned to the combined repository, saved model
+responses, or supplementary archive. Existing third-party terms continue
+to apply to their respective materials. Public availability does not
+replace those terms or grant additional rights.
+
+The release package adds this notice and the upstream license to the
+previously assembled supplementary materials. Research inputs, saved
+responses, evaluation traces, and numerical analysis records are unchanged.
