@@ -1,0 +1,64 @@
+{
+  "format_version": 1,
+  "archive_name": "Supplementary_Reproducibility_Anonymous.zip",
+  "archive_size": 76957617,
+  "archive_sha256": "786758bf2b361e821f0a58bfca65a8669dccc3dfde5cede689b6e5594643fbff",
+  "part_size_limit": 7340032,
+  "parts": [
+    {
+      "name": "reproducibility.part01.bin",
+      "size": 7340032,
+      "sha256": "be850aa9af4679bbcc1800f26bd8e2c6ae7ee07457053e763753f8a8e205c34a"
+    },
+    {
+      "name": "reproducibility.part02.bin",
+      "size": 7340032,
+      "sha256": "525be8ee167e0d485f594d788e2c9da2f665a073fa814d927e6312bce21a580f"
+    },
+    {
+      "name": "reproducibility.part03.bin",
+      "size": 7340032,
+      "sha256": "43cd28e9b48d6fa52ce574806d89af481030dcf25219c1c8855621951318a3fa"
+    },
+    {
+      "name": "reproducibility.part04.bin",
+      "size": 7340032,
+      "sha256": "1b72c16f0f42620517237dae9ece295915d55c1cfe480daaab734ded4993ef71"
+    },
+    {
+      "name": "reproducibility.part05.bin",
+      "size": 7340032,
+      "sha256": "1d6596f02268c155c0c5e1404d6c8e7eb78eecbec24b030fcd9ec864f06c7156"
+    },
+    {
+      "name": "reproducibility.part06.bin",
+      "size": 7340032,
+      "sha256": "ee13fff0b4dd232f90247aad965f8e48608e8f0eca7f3911fb49a8d5ccac0892"
+    },
+    {
+      "name": "reproducibility.part07.bin",
+      "size": 7340032,
+      "sha256": "0a42f293889cf8ce1253d25baab349800a86599c5400eea5c0597d416b5eccc8"
+    },
+    {
+      "name": "reproducibility.part08.bin",
+      "size": 7340032,
+      "sha256": "0a86c6e5487b6a285954c18c3f9bf74a772ababb3ee95a82472bcd6f6761fa53"
+    },
+    {
+      "name": "reproducibility.part09.bin",
+      "size": 7340032,
+      "sha256": "1771f0380ec0774bbd8c7a29ccfbc01f64371d1312fd6cf0db0953a426283f2e"
+    },
+    {
+      "name": "reproducibility.part10.bin",
+      "size": 7340032,
+      "sha256": "fca90dfc66451a12928d9b678457e3b20e0c748cf462fd22b2408bb7613e7312"
+    },
+    {
+      "name": "reproducibility.part11.bin",
+      "size": 3557297,
+      "sha256": "b3d5cb3f7ae9e619e61cbab580357168ddc9ce67bf86b7b68932c59f3122f345"
+    }
+  ]
+}
